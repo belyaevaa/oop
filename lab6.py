@@ -18,7 +18,7 @@ class Control:
 
 
 # Класс формы с наследованием
-# все объекты будут здесь
+# Все объекты будут здесь
 class Form(Control):
     def __init__(self):
         super().__init__()
